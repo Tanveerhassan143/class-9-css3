@@ -22,7 +22,7 @@ body{
     border: 2px solid red;
     width: auto;
     height: 100px;
-    border-radius: 10px;
+    border-radius: 50px;
     position: relative;
 }
 .b{
@@ -30,7 +30,7 @@ body{
     border: 2px solid red;
     width: auto;
     height: 100px;
-    border-radius: 10px;
+    border-radius: 50px;
     position: relative;
 }
 .c{
@@ -38,7 +38,7 @@ body{
     border: 2px solid rgb(4, 0, 0);
     width: auto;
     height: 100px;
-    border-radius: 10px;
+    border-radius: 50px;
 }
 .d{ position: relative;
     
@@ -46,7 +46,7 @@ body{
     border: 2px solid rgb(0, 0, 0);
     width: auto;
     height: 100px;
-    border-radius: 10px;
+    border-radius: 50px;
 }
 h1{
     text-align: center;
